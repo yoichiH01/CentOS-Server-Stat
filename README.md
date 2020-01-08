@@ -2,7 +2,7 @@
 - The batch file to retrieve server status of CentOS machine
 
 # Version Info
--. Version 0.1 (as of 7th January)
+-. Version 0.1 (as of 7th January 2020)
 
 # What does this bath file do?
 This batch file collects following infomraiton and store them into a zip file.
