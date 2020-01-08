@@ -22,7 +22,7 @@ This batch file collects following infomraiton and store them into a zip file.
 3. In the terminal move to the directory where you downloaded and run 
    <B>chmod u+x ./Cent_ServerStat.sh</B>
 4. run <B>./Cent_serverStat.sh</B>
-5. The serverstat will be generated into Serverstat-<Date/Time>.zip in direcotry /tmp2/yhetmp
+5. The serverstat will be generated into Serverstat-<Date/Time>.zip in direcotry /tmp2/
 
 # Note
 - This batch file may take up to several minutes to run depends on the enviroment 
