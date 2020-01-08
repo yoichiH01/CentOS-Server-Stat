@@ -5,7 +5,7 @@
 -. Version 0.1 (as of 7th January 2020)
 
 # What does this bath file do?
-This batch file collects following infomraiton and store them into a zip file.
+This batch file collects following information and store them into a zip file.
 - Catalina.out logs 
 - core_env.properties
 - setenv.sh
