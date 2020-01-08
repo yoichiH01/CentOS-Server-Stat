@@ -15,10 +15,10 @@ This batch file collects following infomraiton and store them into a zip file.
 
 # Instruction
 1. Download Cent_ServerStat.sh into your CentOS machine
-2. Oepn a terminal. Change the account to root e.g. run command su
+2. Oepn a terminal. Change the account to root e.g. run command <B>su</B>
 3. In the terminal move to the directory where you downloaded and run 
    <B>chmod u+x ./Cent_ServerStat.sh</B>
-4. run ./Cent_serverStat.sh
+4. run <B>./Cent_serverStat.sh</B>
 5. The serverstat will be generated into Serverstat-<Date/Time>.zip in direcotry /tmp2/yhetmp
 
 # Disclaimer
